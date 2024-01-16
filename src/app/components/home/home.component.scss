@@ -1,0 +1,16 @@
+.main {
+  height: 100vh;
+  background-image: url("https://images.squarespace-cdn.com/content/5cd9d27f840b16669a850ca3/1601511724701-XUEOOQ86TOOALKW820XT/image-asset.jpeg?content-type=image%2Fjpeg");
+}
+
+.navbar {
+  z-index: 5;
+}
+
+.nav-link:hover {
+  color: gray !important;
+}
+
+h1 {
+  font-size: 80px;
+}
